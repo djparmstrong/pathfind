@@ -1,0 +1,19 @@
+{
+    "name": "davidarmstrong/pathfind",
+    "description": "Oxbury technical test",
+    "authors": [
+        {
+            "name": "David Armstrong",
+            "email": "david.armstrong@psycle.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "DAVIDA\\Test\\": "classes/"
+        }
+    },
+    "require": {
+        "jmgq/a-star": "^2.1"
+    }
+}
